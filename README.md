@@ -16,4 +16,4 @@ Hexo: there are many static generate blog framework though, frontend ecology com
 Icarus: a beautiful designed Hexo theme.
 
 ## Screen shot
-![](./cover.png)
+![](./cover.jpg)
